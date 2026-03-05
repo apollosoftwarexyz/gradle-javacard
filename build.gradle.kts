@@ -32,7 +32,7 @@ tasks.test {
 
 gradlePlugin {
     website = "https://github.com/apollosoftwarexyz/gradle-javacard"
-    vcsUrl = "https://github.com/apollooftwarexyz/gradle-javacard"
+    vcsUrl = website
 
     plugins {
         create("javaCard") {
