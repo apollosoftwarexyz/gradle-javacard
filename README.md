@@ -11,7 +11,7 @@ active:
 ```groovy
 plugins {
     id 'java'
-    id 'xyz.apollosoftware.gradle.javacard' version '1.0'
+    id 'xyz.apollosoftware.gradle.javacard' version '1.1'
 }
 ```
 
