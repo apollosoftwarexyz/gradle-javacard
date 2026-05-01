@@ -3,7 +3,7 @@ import org.gradle.plugin.compatibility.compatibility
 plugins {
     `java-gradle-plugin`
     `maven-publish`
-    id("org.jetbrains.kotlin.jvm") version "2.3.20"
+    id("org.jetbrains.kotlin.jvm") version "2.3.21"
     id("com.gradle.plugin-publish") version "2.1.1"
     id("org.gradle.plugin-compatibility") version "1.0.0"
 }
