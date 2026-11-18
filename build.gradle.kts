@@ -4,7 +4,7 @@ plugins {
     `java-gradle-plugin`
     `maven-publish`
     id("org.jetbrains.kotlin.jvm") version "2.4.10"
-    id("com.gradle.plugin-publish") version "2.1.1"
+    id("com.gradle.plugin-publish") version "2.2.1"
     id("org.gradle.plugin-compatibility") version "1.0.0"
 }
 
